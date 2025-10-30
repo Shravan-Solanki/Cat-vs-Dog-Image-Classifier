@@ -51,7 +51,7 @@ To use this project, you must download the `train.zip` file from Kaggle and extr
     * Run the `catvsdog.ipynb` notebook.
 
       or 
-    * Run the ` catvsdog.py` script
+    * Run the `catvsdog.py` script
     * The notebook will process the data, build the CNN, and train it for 10 epochs.
     * After training, it will save the model to a file named `64x3-CNN.keras`.
 
