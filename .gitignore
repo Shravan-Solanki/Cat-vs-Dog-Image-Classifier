@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data - Ignore the Kaggle dataset folders
+train/
+test1/
+
+# Trained Models - These are large binary files
+*.keras
+*.h5
+*.model
+
+# OS & IDE specific
+.DS_Store
+.vscode/
